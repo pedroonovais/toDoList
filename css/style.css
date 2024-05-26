@@ -93,3 +93,7 @@ h1 {
 .complete-btn:hover {
     background: #218838;
 }
+
+#input-error{
+    margin-top: 20px;
+}
