@@ -50,6 +50,11 @@ h1 {
     background: #218838;
 }
 
+#todo-form button:disabled{
+    background: #21883780;
+    cursor: not-allowed;
+}
+
 #todo-list {
     list-style: none;
     padding: 0;
